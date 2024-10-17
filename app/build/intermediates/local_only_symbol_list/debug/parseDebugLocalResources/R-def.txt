@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color warnabiru
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable baseline_connecting_airports_24
+drawable ic_action_name
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_browser
+id button_count
+id button_pindah
+id button_toast
+id main
+id show_count
+id text_header
+layout activity_main
+layout activity_main2
+layout activity_main3
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_label_browser
+string button_label_count
+string button_label_pindah
+string button_label_toast
+string count_initial_value
+string text_header
+string toast_message
+style Base.Theme.HelloToastJumat
+style Theme.HelloToastJumat
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="warnabiru">#78F436</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">35dp</dimen>
+    <dimen name="activity_vertical_margin">35dp</dimen>
+    <string name="app_name">Hello Toast Jumat</string>
+    <string name="button_label_browser">Take Photo</string>
+    <string name="button_label_count">Count</string>
+    <string name="button_label_pindah">Switch Page</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="count_initial_value">0</string>
+    <string name="text_header">Halaman ke-2</string>
+    <string name="toast_message">Hello Toast !</string>
+    <style name="Base.Theme.HelloToastJumat" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.HelloToastJumat" parent="Base.Theme.HelloToastJumat"/>
+</resources>
